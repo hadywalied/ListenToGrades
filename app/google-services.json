@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "852101854109",
+    "firebase_url": "https://listen-eb35e.firebaseio.com",
+    "project_id": "listen-eb35e",
+    "storage_bucket": "listen-eb35e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852101854109:android:f1c01e5f6a17c613",
+        "android_client_info": {
+          "package_name": "com.example.listen2grades"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852101854109-89oqe8gla5k314s46ljhmugd94p1g7af.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIlpJ3WVQJ0sH8d8K4-wz17lHBT1sYpTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852101854109-89oqe8gla5k314s46ljhmugd94p1g7af.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

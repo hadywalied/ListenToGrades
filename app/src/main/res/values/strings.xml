@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Listen2Grades</string>
+    <string name="say_start">Say a Name…</string>
+    <string name="listen_again">Listen Again</string>
+</resources>
